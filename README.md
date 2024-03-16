@@ -28,6 +28,5 @@ Transformation methods provide a powerful and computationally efficient approach
    * From your terminal, navigate to the project directory. 
    * Execute the Python files. For example: `box_muller.py`
 
-<p align="center">
 ![mvn_samples](https://github.com/andrewrobson3000/Transformation-Methods-for-Statistical-Modeling-and-Simulation/assets/87878168/c9725d05-d926-4cf1-bcfa-fddd25424fdb)
-</p>
+
