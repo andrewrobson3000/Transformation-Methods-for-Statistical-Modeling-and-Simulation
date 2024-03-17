@@ -1,4 +1,4 @@
-# Project: Random Variable Simulation with Transformation Methods
+# Random Variable Simulation with Transformation Methods
 
 This project demonstrates the implementation of common transformation methods for generating random variables from various probability distributions.  It includes the following core algorithms:
 
